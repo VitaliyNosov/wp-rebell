@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rebell 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-18 16:57+0300\n"
+"PO-Revision-Date: 2019-06-18 16:57+0300\n"
+"Last-Translator: Get Bowtied <hq@getbowtied.com>\n"
+"Language-Team: Get Bowtied <hq@getbowtied.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: woocommerce\n"
+"X-Poedit-SearchPathExcluded-1: settings\n"
+"X-Poedit-SearchPathExcluded-2: inc/tgm\n"
+"X-Poedit-SearchPathExcluded-3: inc/custom-menu\n"
+"X-Poedit-SearchPathExcluded-4: _foundation\n"
+"X-Poedit-SearchPathExcluded-5: js\n"
+
+#: 404.php:12
+msgid "Oops 404 again! That page can't be found."
+msgstr "Oops 404 again! That page can't be found."
+
+# @ rebell
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgid "One reply on “%2$s“"
+msgid_plural "%1$s replies on “%2$s“"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ rebell
+#: comments.php:28 comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+# @ rebell
+#: comments.php:29 comments.php:49
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ rebell
+#: comments.php:30 comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ rebell
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+# @ rebell
+#: comments.php:72
+msgid "Leave a Reply"
+msgstr ""
+
+# @ rebell
+# @ woocommerce
+#: comments.php:76
+msgid "Name"
+msgstr ""
+
+# @ rebell
+#: comments.php:78
+msgid "Email Address"
+msgstr ""
+
+# @ rebell
+#: comments.php:80
+msgid "Website"
+msgstr ""
+
+# @ rebell
+#: comments.php:86
+msgid "Message"
+msgstr ""
+
+#: content-none.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:7 content.php:87
+msgid "Continue Reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ rebell
+#: content-page.php:8 content.php:88
+msgid "Pages:"
+msgstr ""
+
+# @ rebell
+#: footer.php:197 header-topbar.php:31
+msgid "Logout"
+msgstr ""
+
+#: footer.php:244
+msgid "What are you looking for?"
+msgstr ""
+
+# @ rebell
+#: functions.php:160
+msgid "Top Bar Navigation"
+msgstr ""
+
+# @ rebell
+#: functions.php:161
+msgid "Main Navigation"
+msgstr ""
+
+# @ rebell
+#: functions.php:162
+msgid "Footer Navigation"
+msgstr ""
+
+# @ rebell
+#: functions.php:182
+msgid "Secondary Navigation (Off-Canvas)"
+msgstr ""
+
+#: functions.php:188
+msgid "Centered Header - Left Navigation"
+msgstr ""
+
+#: functions.php:189
+msgid "Centered Header - Right Navigation"
+msgstr ""
+
+#: functions.php:322
+msgid "Load More Items"
+msgstr ""
+
+#: functions.php:323
+msgid "Loading"
+msgstr ""
+
+#: functions.php:324
+msgid "No more items available."
+msgstr ""
+
+# @ rebell
+#: functions.php:395
+msgid "Sidebar"
+msgstr ""
+
+# @ rebell
+#: functions.php:405
+msgid "Footer Widget Area"
+msgstr ""
+
+# @ rebell
+#: functions.php:415
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:425
+msgid "Right Offcanvas Sidebar"
+msgstr ""
+
+#: functions.php:763
+msgid "Continue shopping"
+msgstr ""
+
+#: image.php:42
+msgid "Previous"
+msgstr ""
+
+#: image.php:46
+msgid "Next"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:32
+#: inc/admin/wizard/class-gbt-install-wizard.php:33
+msgid "Theme Setup"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:53
+msgid "Introduction"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:58
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:63
+msgid "Demo Import"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:68
+msgid "Ready!"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:211
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:234
+msgid "'s"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:234
+msgid "Theme Setup Wizard"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:237
+msgid "Get Started"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:239
+msgid "The quickest way to setup the theme"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:239
+msgid "and start working on your site."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:254
+msgid "Plugin Installation"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:255
+msgid "Install the required plugins before importing the demo content."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:263
+msgid "Recommended"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:269
+#: inc/admin/wizard/class-gbt-install-wizard.php:384
+msgid "Skip"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:270
+#: inc/admin/wizard/class-gbt-install-wizard.php:386
+msgid "Install"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:342
+msgid "Install Now"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:343
+msgid "Update Now"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:344
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:349
+msgid "Active"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:371
+msgid "Demo Content Import"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:372
+msgid "Start with pre-built page layouts, dummy product pages,"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:372
+msgid "blog posts and widgets."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:379
+msgid ""
+"Please make sure Visual Composer and WooCommerce are installed and activated "
+"before importing the demo content."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:388
+msgid "Go back"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:393
+msgid "Importing, please wait!"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:413
+msgid "Setup has been completed successfully!"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:414
+msgid "View Site"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:415
+msgid "You should be able to start working on your site now."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:416
+msgid "Best of luck with your project!"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:421
+msgid "What's next?"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:428
+msgid "Customize the theme"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:434
+msgid "WooCommerce Setup Wizard"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:450
+msgid "Activate Theme Updates"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:453
+msgid "Help Center / Support"
+msgstr ""
+
+#: inc/demo/ocdi-setup.php:97
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/demo/ocdi-setup.php:98
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/metaboxes/product.php:13
+msgid "Product Options"
+msgstr ""
+
+#: inc/metaboxes/product.php:46
+msgid "Fullscreen Description"
+msgstr ""
+
+#: inc/notifications/classic/class-classic-notifications.php:58
+#: inc/notifications/custom/class-custom-notifications.php:116
+msgid "View cart"
+msgstr ""
+
+#: inc/notifications/classic/class-classic-notifications.php:59
+#: inc/notifications/custom/class-custom-notifications.php:117
+msgid "has been added to your cart."
+msgstr ""
+
+#: inc/search/class-search.php:127
+msgid "Search products&hellip;"
+msgstr ""
+
+#: inc/search/class-search.php:218
+msgid "Sale!"
+msgstr ""
+
+# @ rebell
+#: inc/templates/post-meta.php:10 inc/templates/post-meta.php:45
+msgid "Sticky"
+msgstr ""
+
+# @ rebell
+#: inc/templates/post-meta.php:15 inc/templates/post-meta.php:49
+msgid " by "
+msgstr ""
+
+# @ rebell
+#: inc/templates/post-meta.php:17 inc/templates/post-meta.php:51
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+# @ rebell
+#: inc/templates/post-meta.php:33
+msgid " in "
+msgstr ""
+
+# @ rebell
+#: inc/templates/post-meta.php:76 inc/templates/post-meta.php:94
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: inc/templates/post-meta.php:80
+msgid " on "
+msgstr ""
+
+# @ rebell
+#: inc/templates/post-meta.php:82 inc/templates/post-meta.php:100
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+# @ rebell
+#: inc/templates/template-tags.php:66
+msgid "Previous Reading"
+msgstr ""
+
+# @ rebell
+#: inc/templates/template-tags.php:70
+msgid "Next Reading"
+msgstr ""
+
+#: inc/templates/template-tags.php:80
+msgid "Older posts"
+msgstr ""
+
+#: inc/templates/template-tags.php:86
+msgid "Newer posts"
+msgstr ""
+
+# @ rebell
+#: inc/templates/template-tags.php:143
+msgid "Pingback:"
+msgstr ""
+
+# @ rebell
+# @ woocommerce
+#: inc/templates/template-tags.php:143 inc/templates/template-tags.php:183
+msgid "Edit"
+msgstr ""
+
+# @ rebell
+#: inc/templates/template-tags.php:158
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ rebell
+# @ woocommerce
+#: inc/templates/template-tags.php:161
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ rebell
+#: inc/templates/template-tags.php:166
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/woocommerce/quick_view.php:45
+msgid "Quick View"
+msgstr ""
+
+#: index-layout-1.php:50 index-layout-2.php:53 index-layout-3.php:55
+msgid "Category Archives"
+msgstr ""
+
+#: index-layout-1.php:120 index-layout-2.php:123 index-layout-3.php:125
+msgid "All"
+msgstr ""
+
+# @ rebell
+#: index-layout-1.php:176 index-layout-1.php:180 index-layout-1.php:184
+#: index-layout-2.php:199 index-layout-3.php:200
+msgid "Continue Reading"
+msgstr ""
+
+#: search.php:10
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+# @ rebell
+#: searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+# @ rebell
+#: searchform.php:3
+msgid "Search &hellip;"
+msgstr ""
+
+# @ rebell
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+# @ rebell
+#: sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+# @ rebell
+#: sidebar.php:20
+msgid "Meta"
+msgstr ""

@@ -1,0 +1,49 @@
+/*
+Theme Name: rebell
+Theme URI: 
+Author: 
+Author URI: 
+Description: Theme for Rebel
+Version: 2.9.1
+License:
+License URI:
+Text Domain: rebell
+Domain Path: /languages/
+*/
+.product_layout_classic .woocommerce-tabs .panel .large-8>h2:first-child {
+    display: block!important;
+}
+.image-container_for_sub{
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+.image-container_for_sub::after{
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #1f2529;
+  opacity: .3
+}
+.category-content{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    font-size: 22px;
+    color: #fff;
+    font-weight: 700;
+}
+.woocommerce-cart .cart_totals .wc-proceed-to-checkout {
+  padding-top: 0!important;
+}
+.woocommerce-page .entry-content .cart-collaterals .cart_totals tr.order-total td {
+  padding-bottom: 0;
+}
+#custom_html-2 .textwidget.custom-html-widget a, #custom_html-6 .textwidget.custom-html-widget a {
+  text-transform: uppercase;
+}
